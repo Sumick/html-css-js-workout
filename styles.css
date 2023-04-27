@@ -16,6 +16,7 @@ html {
 }
 
 .arena {
+   display: flex;
     border: 1px dotted olive;
     height: 80vh;
 }
