@@ -13,6 +13,7 @@ html {
 
 .header {
     text-align: center;
+    transition-duration: unset;
 }
 
 .arena {
